@@ -4,7 +4,7 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/CMPC-Control%20My%20PC-6600ff" alt="CMPC">
-   <img src="https://img.shields.io/badge/Version-1.0-6600ff" alt="Version">
+   <img src="https://img.shields.io/badge/Version-1.1-6600ff" alt="Version">
    <img src="https://img.shields.io/badge/by-Wagman-6600ff" alt = "by">
 </p>
 
@@ -33,6 +33,7 @@
 - **-** **`/screenshot`** - Take a screenshot
 - **-** **`/camera`** - Take a photo
 - **-** **`/mouse`** - Mouse control
+- **-** **`/write [TEXT]`** - Enter text
 - **-** **`/box [TEXT]`** - Open the box with text
 - **-** **`/url [URL]`** - Open the URL in browser
 - **-** **`/cmd [COMMAND]`** - Execute the command in Terminal
