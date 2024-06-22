@@ -4,7 +4,7 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/CMPC-Control%20My%20PC-6600ff" alt="CMPC">
-   <img src="https://img.shields.io/badge/Version-1.2-6600ff" alt="Version">
+   <img src="https://img.shields.io/badge/Version-1.3-6600ff" alt="Version">
    <img src="https://img.shields.io/badge/by-Wagman-6600ff" alt = "by">
 </p>
 
@@ -32,7 +32,7 @@
 - **-** **`/info`** - Get PC info
 - **-** **`/screenshot`** - Take a screenshot
 - **-** **`/camera`** - Take a photo
-- **-** **`/mouse`** - Mouse control
+- **-** **`/mouse [control] / [move] [X] [Y]`** - Mouse control
 - **-** **`/write [TEXT]`** - Enter text
 - **-** **`/press [KEY] / [KEY_1] [KEY_N]`** - Press the button / hotkey combination
 - **-** **`/box [TEXT]`** - Open the box with text
